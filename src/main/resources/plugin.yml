@@ -1,0 +1,4 @@
+name: SafeFix
+version: 1.0
+main: de.safefix.SafeFixPlugin
+api-version: 1.21
